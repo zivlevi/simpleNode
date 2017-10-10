@@ -1,0 +1,10 @@
+{
+ "name": "simpleNode",
+ "version": "1.0.0",
+ "description": "hello_world_node",
+ "author": "ziv_levi",
+ "main": "main.js",
+ "scripts":{
+	"start": "node main.js"
+ }
+}
